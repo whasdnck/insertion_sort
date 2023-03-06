@@ -4,8 +4,7 @@
 정의 만으로 알고리즘을 유추할 수 있도록 한다.
 정렬할 원소보다 아래 인덱스에 있는 요소와 비교하기 위함이다.
 
-public static void main(String[] args) {
-	nums = new int[10];
+public static void main(String[] args) {nums = new int[10];
 	for (int i = 0; i < 10; i++) {
 		nums[i] = (int) (Math.random() * 10);
 	}
