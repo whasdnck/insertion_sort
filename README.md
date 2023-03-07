@@ -31,27 +31,3 @@ public static void main(String[] args) {
 	System.out.println("<정렬 후>");
 	System.out.println(Arrays.toString(nums));
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
